@@ -6,7 +6,7 @@ http://ynoteclassic.codeplex.com
 
 Read an intro [here](https://www.codeproject.com/Articles/801835/Ynote-Classic-Text-and-Source-Code-Editor) 
 
-Download setup [here](https://github.com/thelehhman/ynoteclassic/releases/download/2.8.5/Ynote.Classic.2.8.5.Beta.R2.exe)
+Download [here](https://github.com/DestroyerDarkNess/YNoteClassic/releases/download/2.8.5/YnoteVB.Base.zip)
 
 Features
 ----
